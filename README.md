@@ -38,4 +38,4 @@ Es fundamental destacar la separación de responsabilidades en el ecosistema de 
     npm run dev
     ```
 
-Cabe destacar que el backend debe estar expuesto y con el servidor activo de forma local antes de ejecutar este front.
+Cabe destacar que el backend [https://github.com/driques/xpendit-backend] debe estar expuesto y con el servidor activo de forma local antes de ejecutar este front.
